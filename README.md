@@ -5,14 +5,20 @@ Colorize is a gem that can quickly colour the output of Strings to the terminal.
 Colours available are listed by typing
 `String.colors`
 
-Alternatively if you'd like to see a sample of that color this can be done with
+Alternatively if you'd like to see a sample of that colour this can be done with
 `String.sample_colors`
-To change the colour of any string just call the method named after the colour. For example to make a string hello red
-`"hello".red`
+
+To change the colour of any string just call the method named after the colour.
+For example to make a string "hello" red and print to terminal
+```
+puts "hello".red
+```
 
 ##Installation 
 Please install this gem using the following command
-`gem install colorizr`
+```
+gem install colorizr
+```
 
 ##License
 This project is released under the MIT License
