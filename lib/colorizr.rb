@@ -16,7 +16,7 @@ class String
     
     def self.colors
         #Displays an array of colors
-        @colors.keys
+        @colors.keys.to_a
     end
 
     def self.sample_colors
