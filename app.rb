@@ -2,8 +2,9 @@ require 'colorizr'
 
 #DEMO
 #
-#Creating colors
-String.create_colors
+#Creating colors - optional
+#String.create_colors
+
 #Example strings
 example = "example string"
 String.colors.each do |color|
@@ -13,3 +14,4 @@ end
 String.sample_colors
 #Returns array of colors
 p String.colors
+
