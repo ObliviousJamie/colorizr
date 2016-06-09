@@ -4,3 +4,5 @@ What was the most rewarding challenge you conquered?
     Using meta programming to auto generate methods
 Where do you still have room to grow?
     Using faster methods for the same job
+How does your gem take advantage of Ruby’s metaprogramming capabilities?
+    I have used the define method in the create_colors method to define new methods fo r colors
