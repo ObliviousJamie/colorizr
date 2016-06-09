@@ -5,4 +5,4 @@ What was the most rewarding challenge you conquered?
 Where do you still have room to grow?
     Using faster methods for the same job
 How does your gem take advantage of Ruby’s metaprogramming capabilities?
-    I have used the define method in the create_colors method to define new methods fo r colors
+    I have used the define method in the create_colors method to define new methods for colors so that when the user calls one of these methods it exists without me having to create each color individually
